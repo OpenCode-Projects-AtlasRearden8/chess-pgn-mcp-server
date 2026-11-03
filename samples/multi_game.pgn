@@ -1,0 +1,21 @@
+[Event "Sample (synthetic)"]
+[Site "Local samples"]
+[Date "2026.11.03"]
+[Round "1"]
+[White "Chris Example"]
+[Black "Robin Example"]
+[Result "1/2-1/2"]
+[Opening "Sicilian: one-move agreement demo"]
+
+1. c4 {an empty comment just to exercise the tokenizer} c5 * 
+
+[Event "Sample (synthetic)"]
+[Site "Local samples"]
+[Date "2026.11.03"]
+[Round "2"]
+[White "Robin Example"]
+[Black "Chris Example"]
+[Result "*"]
+[Opening "Queen's Gambit: unfinished demo"]
+
+1. d4 d5 2. c4 *

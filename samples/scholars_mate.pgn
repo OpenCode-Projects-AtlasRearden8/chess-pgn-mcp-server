@@ -1,0 +1,11 @@
+[Event "Sample (synthetic)"]
+[Site "Local samples"]
+[Date "2026.11.03"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Sample Player"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's Pawn: Scholar's mate demo"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Nf6 {defends nothing} 4. Qxf7# 1-0

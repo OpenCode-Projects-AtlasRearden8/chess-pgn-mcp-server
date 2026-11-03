@@ -1,0 +1,11 @@
+[Event "Sample (synthetic)"]
+[Site "Local samples"]
+[Date "2026.11.03"]
+[Round "?"]
+[White "Sample Player"]
+[Black "Paul Morphy"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Grob / Fool's mate demo"]
+
+1. f3 e5 2. g4 Qh4# 0-1
