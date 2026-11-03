@@ -1,6 +1,12 @@
-__pycache__/
-*.py[cod]
-.DS_Store
 *.egg-info/
+*.py[cod]
+*.pyc
+.DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
 smoke_in.txt
 smoke_out.txt
